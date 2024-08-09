@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://www.uvkxe.co/static/picture/logo.png" width="300px" height="300px" alt="uvkxe logo" />
+<img src="https://www.uvkxe.co/static/picture/logo.png"  alt="uvkxe logo" />
 </p>
 
 # UVKXE Exchange Overview
