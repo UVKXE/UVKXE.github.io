@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/uvkxe/uvkxe.github.io/raw/main/images/UVKXE%20Logo_Vertical.jpg" width="300px" height="300px" alt="uvkxe logo" />
+<img src="https://www.uvkxe.co/static/picture/logo.png" width="300px" height="300px" alt="uvkxe logo" />
 </p>
 
 # UVKXE Exchange Overview
